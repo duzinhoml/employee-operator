@@ -2,7 +2,7 @@
 
 ## Description
 
-Too much information to manage in your company? Use the Employee Operator tool and have better manageability over your departments, roles, and employees! Keep better track over your company with the Employe Operator.
+Too much information to manage in your company? Use the Employee Operator tool and have better manageability over your departments, roles, and employees! Keep better track over your company with the Employee Operator.
 
 ## Table of Contents
 
